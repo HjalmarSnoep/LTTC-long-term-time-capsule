@@ -49,13 +49,15 @@ bury them in the forrest in a big cirle, so they are easily found. If we are tal
 they will have to withtand moisture, being buried and geological forces, that might spread them in strata over meters long
 aluminium will not stretch that far and probably break, but the pieces might atill fit together.
 
-multiple copies buried on multiple sites, might make survival of the information more likely..
-
 short term integrity ( fool proofing )
 - qr of contents, so it won´t be broken open as long as there is internet or unless religious factions arise tha
 want the information destryed
 - open source copy of the texts. (you are reading it)
 - acid free paper and ink book of contents, so it won´t be broken open as long as the books last.
+- multiple copies buried on multiple sites, might make survival of the information more likely..
+## locations
+ in gps coordinates and addresses.
+ - Nehterlands hoenderloo, woestehoefweg, bb7369, 52°06'57.2"N 5°55'16.2"E
 
 # goals
 - write from a neutral standpoint to a future intelligence that rises after humans.
