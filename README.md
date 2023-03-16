@@ -66,7 +66,7 @@ want the information destroyed and will do so methodologically, we need some sto
 ## locations
  add your location in gps coordinates and addresses, please
  - Netherlands Hoenderloo, woestehoefweg, bb7369, 52°06'57.2"N 5°55'16.2"E
- - secret locations (consider if your location should remain secret, i Think three public stores on different continents is optimal)
+ - secret locations (consider if your location should remain secret, i think three public stores on different continents is optimal for longevity)
 
 # goals
 - write from a neutral standpoint to a future intelligence that rises after humans.
