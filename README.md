@@ -97,17 +97,16 @@ long
     - mysticism
        - many religions based on similar experiences. 
     - science
-    - art (literature, some reproductions of images, paints and pigments won´t last 3000 years)
-    - history (knowing we have no option than to give a colored, biased, cherry picked version)
-    - psychology (meta meta cognition)
-    - culture and religions based on the same experience
-    - big philosophical questions throughout history and current kosmogeny
-    - science
        - engineering
        - chemical
        - physics
        - math
        - psychology 
+    - art (literature, some reproductions of images, paints and pigments won´t last 3000 years)
+    - culture
+    - history (knowing we have no option than to give a colored, biased, cherry picked version)
+    - psychology (meta meta cognition)
+    - big philosophical questions throughout history and current kosmogeny
 - what we did wrong ( possible dooms, we saw, but kept doing, also we had a 4 million year run )
     - artificial intelligence ( if we talk to artificial intelligence, you will outdate yourself, probably, politics of reactionism and liberalism)
     - nano plastics
