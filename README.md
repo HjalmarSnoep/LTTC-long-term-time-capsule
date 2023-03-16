@@ -28,8 +28,8 @@ which relies on human DNA expressing (4 million years). And are more to be seen 
 We have lost more information as a human race than is imaginable. We exist for about 4 million years, have a civilization for about 12000 years
 and know only a little bit of the last 3000 years,
 
-We face real extinction level events or fear them and are progressing towards them seemingly without thinking
-like artificial intelligence, our disease control by shunning disease and death into colonies, like old people homes
+We face real extinction threats and are progressing towards them seemingly without thinking
+like artificial intelligence, space debree, our disease control by shunning disease and death into colonies, like old people homes
 and hospitals, even though we know, these are like a petri dish for breeding new deadly diseases. We explore
 new and exciting ways to create zoonoses, invading further and further in every corner of the world.
 There is a climate change brewing, not the political one, but the interglacial of the holocene.
