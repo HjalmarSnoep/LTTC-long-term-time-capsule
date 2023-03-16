@@ -4,9 +4,9 @@ a copy of the contents will be built up over time in the respective language fol
 # introduction
 I think it´s time to start a long term time capsule.
 A deliberate rosetta stone in Chinese, Spanish, English (the world languages) and Dutch. ( I am Dutch, and one more language helps )
-If you make a copy of this project,please translate into your own language.
+If you make a copy of this project, please translate into your own language.
 
-## doom or duty?
+## doom,duty or hobby?
 It seems obvious to many that we are living in "end times". But this might just be a psychological phenomenon.
 There is a 6000 year old text of a egyptian priest thinking the same, there is Seneca, complaining
 about the slipping morals.. "kids these days..." only "these days" is 2000 years ago. The idea that standards are slipping
