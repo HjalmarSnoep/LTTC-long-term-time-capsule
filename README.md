@@ -14,7 +14,7 @@ might be universal and a interplay of conservatist and progressive standpoints.
 There is the idea of the Kalpa´s of the Hindu´s. 
 Who think everything is getting worse and that is as it should be. 
 The Kali Juga is an old concept (3000 years or older), according to hindus there is cycles of running down
-taking 432.000.000 million years. This is possibly not meant as an exact numer, just as "umpteen" "eons" a lot..
+taking 432.000.000 million years. This is possibly not meant as an exact number, just as "umpteen" "eons" a lot..
 Big and unknowable.. But in their view, the end-times, the Kali Juga, only takes a fraction of this total period and will only last 5000 years.
 The end always comes unexpectedly and swiftly seems to be the lesson.
 
