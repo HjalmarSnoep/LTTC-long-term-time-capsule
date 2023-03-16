@@ -35,9 +35,10 @@ new and exciting ways to create zoonoses, invading further and further in every 
 There is a climate change brewing, not the political one, but the interglacial of the holocene.
 Several iceages will follow us and each time a heatwave will have driven humans further north. or maybe we
 will just slowly migrate, like birds do every year, we might do over thousands of years.
-However.. one thing is certain, this point in time won´t last. There is a 50% chance things will get worse.
+
+Conclusion.. One thing seems certain, this point in time won´t last. There is a 50% chance things will get worse.
 In case things are better, we will still be interesting as a data point.
-Honest, long term non-political driven timecapsules seem our duty, no matter what.
+Honest, long term, non-politically or religiously driven timecapsules seem our duty, no matter what.
 
 ## how to preserve
 I think the best (most cost effective) way is to write, inscribe by hand on thick (0.5mm) aluminium sheets
