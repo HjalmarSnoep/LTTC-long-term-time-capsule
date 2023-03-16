@@ -9,13 +9,15 @@ If you make a copy of this project,please translate into your own language.
 ## doom or duty?
 It seems obvious to many that we are living in "end times". But this might just be a psychological phenomenon.
 There is a 6000 year old text of a egyptian priest thinking the same, there is Seneca, complaining
-about the slipping morals.. "kids these days..." only these day is 2000 years ago.
-There is the idea of the Kalpa´s of the hindu´s. 
-Who think everything is getting worse and that is
-as it should be. 
-the Kali Juga is an old concept, according to hindu´s there is cycles of running down
-taking 432.000.000 million years. This is posibly not meant as an exact numer, just as umpteen..
-Big and unknowable.. But in their view, the end-times, the Kali Juga, only takes a 16th of this total period.
+about the slipping morals.. "kids these days..." only "these days" is 2000 years ago. The idea that standards are slipping
+might be universal and a interplay of conservatist and progressive standpoints. 
+There is the idea of the Kalpa´s of the Hindu´s. 
+Who think everything is getting worse and that is as it should be. 
+The Kali Juga is an old concept (3000 years or older), according to hindus there is cycles of running down
+taking 432.000.000 million years. This is possibly not meant as an exact numer, just as "umpteen" "eons" a lot..
+Big and unknowable.. But in their view, the end-times, the Kali Juga, only takes a fraction of this total period and will only last 5000 years.
+The end always comes unexpectedly and swiftly seems to be the lesson.
+
 We know things end and we know entropy increases (second law of thermodynamics) and only antifragile structures last
 a while ( millions of years is still a while on this scale), 
 like the DNA of ants. This structure expresses, adapts ( a bit ) and reproduces. This is antifragility.
