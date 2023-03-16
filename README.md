@@ -40,8 +40,8 @@ Conclusion.. One thing seems certain, this point in time won´t last. There is a
 In case things are better, we will still be interesting as a data point.
 Honest, long term, non-politically or religiously driven timecapsules seem our duty, no matter what.
 
-## how to preserve
-Copy or make your own.. It is important to me there´ll be many, you might think other things are important, some things you might not have considered, use my pages as a template, please. We are many different viewpoint and it is important to preserve many different viewpoints. 
+## copies
+Copy or make your own.. I think the important thing is there´ll be many, you might think other things are important, some things you might not have considered, use my pages as a template, please. We are many different viewpoint and it is important to preserve many different viewpoints. 
 
 ## how to preserve
 I think the best (most cost effective) way is to write, inscribe by hand on thick (0.5mm) aluminium sheets.
