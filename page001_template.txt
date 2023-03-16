@@ -17,6 +17,14 @@ Spanish: part of language
 English: used for emphasis
 
 numbers explained
+decimal system, base 10.
+e3=> 10 to the power of (exponbent) 3
+e1=10
+e2=hundred
+e3=thousand
+e6=million
+e9=billion
+
 one 1
 two 2
 three 3
