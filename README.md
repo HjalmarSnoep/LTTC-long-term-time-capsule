@@ -80,10 +80,10 @@ want the information destroyed and will do so methodologically, we need some sto
 
 # goals
 short
-- write from a neutral standpoint to a future intelligence that rises after humans (worst case scenario:).
-- tell them who we were (from a antropologic standpoint)
+- write from a neutral standpoint to a future intelligence or society that rises.
+- tell them who we were
 - what we learned, what we did right 
-- what we did wrong ( possible dooms, we saw, but kept doing, also we had a 4 million year run )
+- what we did wrong
 - wish the new us luck and hope
     
 long
