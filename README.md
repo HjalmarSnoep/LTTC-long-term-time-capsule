@@ -2,7 +2,7 @@
 a copy of the contents
 
 # introduction
-I think it s time to start a long term time capsule.
+I think it´s time to start a long term time capsule.
 A deliberate rosetta stone in Chinese, Spanish, English (the world languages) and Dutch. ( I am Dutch, and one more language helps )
 If you make a copy of this project,please translate into your own language.
 
