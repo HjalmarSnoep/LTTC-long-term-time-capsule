@@ -1,25 +1,42 @@
+Viewpoint of the writer
+
 There is no truth, just viewpoints. This is why we attempt to disclose our biases.
 
-# theories and facts, measurements
+Life cycle of theories, facts and measurements
 - There are long standing scientific theaories + 50 years
 - there are shortstanding scientific facts and theories, based on improving meaurements  <50 years
   (current average halflife of facts +/- 7 years)
 - measurements , some, likethe speed of light in vacuum stand longer
 
+Significance
 There is a thing called significance, which indicates an estimated error-margin. like 100 +/- 50
 10 means +/- 5
 or 3.03 which is meant as 3.03 +/- 0.005, where 3.0003 means +/- 0.00005
+we can also say 3.3e5 meaning 3.3 times 10 to the power of 5, so 10000, meaning +/- 500
 
-Relativity of scientific data
-scientific measurement is either
+Relativity of fathering scientific data
+Scientific measurement is either
 - a way of creating a repeatable experiment controlling the environment  in vitro, not in vivo.. 
 - statistics, large number of datapoints to find trends, correlation, averages and filter out measuring mistakes.
 - models, purely mathmatical models that mimic observed behaviour and are assumed to have similarworking principles 
-- relies on math and numbers, which rely on solid state behaviour
 
-These methods are used to exclude subjective experience as much as possible, but these are highly reductive of "the real world"
-which tends to be chaotic and undulatory  in nature, the writer is an emergentist, not ascientist.
-These tools are considered by many to be the best we have, the writer tends to see where they fail, but agreees with that standpoint.
+Relativity of Math as a scientific tool
+All current science relies on Math derived from calculus, which means the assumption of seperation and
+seperatability. Which rely on solid state behaviour. Calculus id the diminitive form of Calx (sanfstone) meaning "pebble"
+Calculus is a way of processing meaurements of pebble-like structures.
+With the addition of other (less rational) numbering systems, Math has progressed, but remains
+thoroughly biased towards calculus.
+
+These methods are used to exclude subjective experience (magic thinking) as much as possible, 
+but these are highly reductive of "the real world" and human biases and the belief in facts and abstractions rather than curent experience
+clouds measurement towards subjective experience with added authority, leading to wrong conclusions.
+
+Reality tends to be chaotic and undulatory in nature, the writer considers himself an emergentist, not a scientist.
+
+These scientific tools are considered by many to be the best we have, the writer tends to see where these fail in combination with human biases, but largely agreees with that standpoint. Other than current fashion, he does see the archeological value of magic thinking and rituals as a robust store of knowledge and acknowledges the existence of intelligence of other types than "human intelligence".
+He considers the internet, societies, dolphins, spiders, molds, ants, octopi and many other phenomena to be equally but differently intelligent to humans.
+The only definition of intelligence he accepts is: a complex multitude of connections functioning as a whole.
+He thinks self-awareness is mostly a habit and a hallucination a by product of meta-cognition, but then again, all things (rahter than phenomena) are a type of hallucination, this does not proclude usefulness. Halucination is a "put down word", but there is currently not a better one I can find. "Not true" opens a whole other can of worms.. What is true, then?
 
 The writer is called "Jens Hjalmar Snoep", "Hjalmar" to friends. J.H. Snoep to officials and enemies.
 Human, being.. Humans are in no objective measure currently the dominant species, except in the ability to consider itself dominant, be self aware, the ability to strategize, process information and augment our environment and bodies by technology and empathise with other humans mostly. 
