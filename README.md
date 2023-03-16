@@ -41,27 +41,29 @@ In case things are better, we will still be interesting as a data point.
 Honest, long term, non-politically or religiously driven timecapsules seem our duty, no matter what.
 
 ## how to preserve
-I think the best (most cost effective) way is to write, inscribe by hand on thick (0.5mm) aluminium sheets
-deformations in aluminium are easy to make by hand (writing) and survive many temperature flucutations.
-Then cotton balls (acid free)
+I think the best (most cost effective) way is to write, inscribe by hand on thick (0.5mm) aluminium sheets.
+Deformations in aluminium are easy to make by hand (writing) and survive many temperature fluctations and chemical interactions. Acidity  (and Gallium) being it´a peak vulnerabiliy. Gallium is a rare metal that will bond with aluminium, making it extremely brittle.
+Then cotton balls (acid free, cheap isolation material)
 Then acid free cardboard box(es)
 
-put the sheets in paper boxes to keep them  temperature stable/isolated, the acid in the paper will eat away at the aluminium over millions of year so acid free (https://www.preservationequipment.com/Catalogue/Conservation-Materials/Paper-Board/What-is-acid-free-paper) would be better. First cotton balls for a https://www.preservationequipment.com/Catalogue/Conservation-Materials/Paper-Board/Mounting-board
+https://www.preservationequipment.com/Catalogue/Conservation-Materials/Paper-Board/Mounting-board
 
 Then put them in concrete for sturdiness and 
-bury them in the forrest in a big cirle, so they are easily found. If we are talking millions of years
-they will have to withtand moisture, being buried and geological forces, that might spread them in strata over meters long
-aluminium will not stretch that far and probably break, but the pieces might atill fit together.
+bury them in a forrest in sand in a big cirle, so they are easily found. If we are talking millions of years
+they will have to withstand moisture, being buried and geological forces, that might spread them in strata over meters long
+aluminium will not stretch that far and probably tear, without losing inscriptions and the pieces will still fit together.
 
 short term integrity ( fool proofing )
-- qr of contents, so it won´t be broken open as long as there is internet or unless religious factions arise tha
-want the information destryed
-- open source copy of the texts. (you are reading it)
-- acid free paper and ink book of contents, so it won´t be broken open as long as the books last.
-- multiple copies buried on multiple sites, might make survival of the information more likely..
+- qr of contents, so it won´t be broken open by curiosity as long as there is internet (con: religious or political factions may arise that
+want the information destroyed and will do so methodologically, we need some stores to remain secret)
+- open source copy of the texts. (you are reading it) accessible by qr..
+- inside a acid free paper and ink book of contents, so it won´t be broken open further as long as the books last
+- multiple stores buried on multiple sites around the world, some of which secret, make survival of the information more likely..
+
 ## locations
- in gps coordinates and addresses.
- - Nehterlands hoenderloo, woestehoefweg, bb7369, 52°06'57.2"N 5°55'16.2"E
+ add your location in gps coordinates and addresses, please
+ - Netherlands Hoenderloo, woestehoefweg, bb7369, 52°06'57.2"N 5°55'16.2"E
+ - secret locations (consider if your location should remain secret, i Think three public stores on different continents is optimal)
 
 # goals
 - write from a neutral standpoint to a future intelligence that rises after humans.
