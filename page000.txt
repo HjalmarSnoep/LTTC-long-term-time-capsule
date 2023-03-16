@@ -1,0 +1,23 @@
+There is no truth, just viewpoints. This is why we attempt to disclose our biases.
+
+# theories and facts, measurements
+- There are long standing scientific theaories + 50 years
+- there are shortstanding scientific facts and theories, based on improving meaurements  <50 years
+  (current average halflife of facts +/- 7 years)
+- measurements , some, likethe speed of light in vacuum stand longer
+
+There is a thing called significance, which indicates an estimated error-margin. like 100 +/- 50
+10 means +/- 5
+or 3.03 which is meant as 3.03 +/- 0.005, where 3.0003 means +/- 0.00005
+
+Relativity of scientific data
+scientific measurement is either
+- a way of creating a repeatable experiment controlling the environment  in vitro, not in vivo.. 
+- statistics, large number of datapoints to find trends, correlation, averages and filter out measuring mistakes.
+- models, purely mathmatical models that mimic observed behaviour and are assumed to have similarworking principles 
+- relies on math and numbers, which rely on solid state behaviour
+
+These methods are used to exclude subjective experience as much as possible, but these are highly reductive of "the real world"
+which tends to be chaotic and undulatory  in nature, the writer is an emergentist, not ascientist.
+These tools are considered by many to be the best we have, the writer tends to see where they fail, but agreees with that standpoint
+
