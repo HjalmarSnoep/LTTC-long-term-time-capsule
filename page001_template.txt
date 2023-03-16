@@ -4,6 +4,9 @@ Western alphabet languages
 sample of handwritten font for writing printing system (please don´t use longhand)
 ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789 abcdefghijklmnopqrstuvwxyz
 
+native language of writer disclosure
+limitations of automatic translation.
+
 punctuation explained .,!?;: 
 minimal sentence structure explained subject-verb
 
