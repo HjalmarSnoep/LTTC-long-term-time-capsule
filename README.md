@@ -94,5 +94,5 @@ want the information destroyed and will do so methodologically, we need some sto
     - ant mills and pheromones, media and urgency
 - wish them luck and hope
     - we offer no advice, there is no truth, there never will be. draw your own conclusions
-    - we love you, because we love ourselves, we forget and we are sorry for that
+    - we love you, because we love ourselves, and are, like you, self aware information processors, we forget that sometimes and we are sorry for that
 
