@@ -40,6 +40,14 @@ Conclusion.. One thing seems certain, this point in time won´t last. There is a
 In case things are better, we will still be interesting as a data point.
 Honest, long term, non-politically or religiously driven timecapsules seem our duty, no matter what.
 
+I think we are close enough to a historical pivot point to be significant for future historeans.
+- a collapse of the kapitalist system seems immanent. 
+- I have witnessed a change in the way we perceive fact and information, since the internet became popular in 2000
+- the way we perceive truth and our sense of individuality changed when social media became popular in 2010
+- there is a definite decline in scientific rigour
+- Political diversity decreases, polarisation increases, subject for polarisation seems less important then the polarisation itself subjects of debate are forgotten in a few years
+- there is a great sense of stress and urgency in the media and the way people speak.
+
 ## copies
 Copy or make your own.. I think the important thing is there´ll be many, you might think other things are important, some things you might not have considered, use my pages as a template, please. We are many different viewpoint and it is important to preserve many different viewpoints. 
 
