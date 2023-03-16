@@ -6,7 +6,7 @@ I think it´s time to start a long term time capsule.
 A deliberate rosetta stone in Chinese, Spanish, English (the world languages) and Dutch. ( I am Dutch, and one more language helps )
 If you make a copy of this project, please translate into your own language.
 
-## doom,duty or hobby?
+## doom,duty or immortality?
 It seems obvious to many that we are living in "end times". But this might just be a univeral psychological phenomenon witnessed throughout history.
 There is a 6000 year old text of an egyptian priest thinking basically the same. There is Seneca, a stoic complaining mostly
 about the slipping morals. along the lines of:"kids these days..." only "these days" is 2000 years ago. 
@@ -49,6 +49,15 @@ I think we are close enough to a historical pivot point to be significant for fu
 - there is a definite decline in scientific rigour
 - Political diversity decreases, polarisation increases, subject for polarisation seems less important then the polarisation itself subjects of debate are forgotten in a few years
 - there is a great sense of stress and urgency in the media and the way people speak.
+
+Despite all this, I don´t really believe we are living in end times, as the human race, "westernised" civilization, I don´t know.
+
+I personally had a close brush with death and found that many things I hold important, I have never said.
+Things that were so basic, so universally understood differently than I see them, that I never dared express them.
+I always thought I had the broader perspective, but that very few understood what I meant. This seems to have gotten worse.
+Perhaps this is just my pathetic claim to immortality prompted by overamped individuality, perhaps next time I (almost) die I want to feel I have said everything.
+That I have taken my responsibility as an information processing unit to actually communicate my findings.
+
 
 ## copies
 Copy or make your own.. I think the important thing is there´ll be many, you might think other things are important, some things you might not have considered, use my pages as a template, please. We are many different viewpoint and it is important to preserve many different viewpoints. 
