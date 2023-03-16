@@ -21,7 +21,7 @@ The end always comes unexpectedly and swiftly seems to be the lesson.
 We know things end and we know entropy increases (second law of thermodynamics) and only antifragile structures last
 a while ( millions of years is still a while on this scale), 
 like the DNA of ants. This structure expresses, adapts ( a bit ) and reproduces. This is antifragility.
-And have been doing it for millions of years.
+Ants have been doing it for millions of years ( longer than humans ) and have been stable for quite long. (formicidae, stabilized in cretacious, 79 million years ago, from wasplike creatures and are currently expressed in an estimated 22000 adaptations to environmental factors)
 As of yet there is no means of making information antifragile.
 Books may be reprinted, open source may be a bit anttifragile, but both of these rely on a society, 
 which relies on human DNA expressing. And are more to be seen as a weakest link in that chain.
