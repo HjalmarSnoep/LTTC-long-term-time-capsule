@@ -30,7 +30,8 @@ All current science relies on Math derived from calculus, which means the assump
 seperatability. Which rely on solid state behaviour. Calculus is the diminitive form of Calx, Calcis (sandstone in Latin) meaning "pebble"
 "Calculus" in English means a way of processing meaurements of pebble-like structures.
 With the addition of other (less rational) numbering systems, Math has progressed, but remains
-thoroughly biased towards calculus.
+thoroughly biased towards calculus. (the axiom 1+1=2, which is obviously only true for solids and aerogels and not true for the 7 other currently recognised aggregation states, namely, fluid, supercritic fluid, gas, plasma, ionised plasma, einstein-bosen condensate, time crystal)
+Making the reality value of this axiom only 2/9 = 22.2222 percent, I expect more non-conformant aggregation states to be discovered in future)
 
 These methods are used to exclude subjective experience (magic thinking) as much as possible, 
 but these are highly reductive of "the real world" and human biases and the belief in facts and abstractions rather than curent experience
