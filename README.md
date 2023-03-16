@@ -11,7 +11,7 @@ It seems obvious to many that we are living in "end times". But this might just 
 There is a 6000 year old text of an egyptian priest thinking basically the same. There is Seneca, a stoic complaining mostly
 about the slipping morals. along the lines of:"kids these days..." only "these days" is 2000 years ago. 
 The idea that standards are slipping
-might be universal and a interplay of conservatist and progressive standpoints throughout history, possibly signifying the end of an era or civilization, with more polarisation arising towards a conflict.
+might be universal and an interplay of conservatist and progressive standpoints throughout history, possibly signifying the end of an era or civilization, with more polarisation arising towards a conflict.
 
 Then there is the idea of the Kalpa´s of the Hindu´s. 
 Who think everything is getting worse and that is as it should be. 
