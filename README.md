@@ -87,7 +87,7 @@ short
 - wish the new us luck and hope
     
 long
-- write from a neutral standpoint to a future intelligence that rises after humans (worst case scenario:).
+- write from (as much as possible) neutral standpoint to a future intelligence that rises after humans (worst case scenario:).
 - tell them who we were (from a antropologic standpoint)
    - political organisation.. societies, countries
    - globalisation
