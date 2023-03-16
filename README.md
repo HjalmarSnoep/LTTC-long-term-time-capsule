@@ -7,7 +7,7 @@ A deliberate rosetta stone in Chinese, Spanish, English (the world languages) an
 If you make a copy of this project,please translate into your own language.
 
 ## doom or duty?
-It seemeslogical that we are living in "end times". this might just be a psychological phenomenon.
+It seems obvious to many that we are living in "end times". But this might just be a psychological phenomenon.
 There is a 6000 year old text of a egyptian priest thinking the same, there is Seneca, complaining
 about the slipping morals.. "kids these days..." only these day is 2000 years ago.
 There is the idea of the Kalpa´s of the hindu´s. 
