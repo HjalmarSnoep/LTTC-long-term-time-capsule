@@ -79,25 +79,27 @@ want the information destroyed and will do so methodologically, we need some sto
  - secret locations (consider if your location should remain secret, i think three public stores on different continents is optimal for longevity)
 
 # goals
-- write from a neutral standpoint to a future intelligence that rises after humans.
-- tell them who we were (antropologic)
-   - societies, countries, political organisation, what politics are.. (organised crime, through idealism)
+- write from a neutral standpoint to a future intelligence that rises after humans (worst case scenario:).
+- tell them who we were (from a antropologic standpoint)
+   - political organisation.. societies, countries
    - globalisation
    - reliance on computers and technology
    - religious divisions, country divisions
 - what we learned, what we did right 
-    - mysticism, meditation
+    - mysticism
+       - many religions based on similar experiences. 
     - science
+    - art (literature, some reproductions of images, paints and pigments won´t last 3000 years)
     - history (knowing we have no option than to give a colored, biased, cherry picked version)
-    - psychology
-    - many religions based on the same experience
+    - psychology (meta meta cognition)
+    - culture and religions based on the same experience
     - big philosophical questions throughout history and current kosmogeny
-    - engineering
-    - chemical
-    - physics
-    - math
-    - psychology 
-    - art (literature,some reproductions of images, paints won´t last)
+    - science
+       - engineering
+       - chemical
+       - physics
+       - math
+       - psychology 
 - what we did wrong ( possible dooms, we saw, but kept doing, also we had a 4 million year run )
     - artificial intelligence ( if we talk to artificial intelligence, you will outdate yourself, probably, politics of reactionism and liberalism)
     - nano plastics
@@ -105,7 +107,7 @@ want the information destroyed and will do so methodologically, we need some sto
     - money as a store of wealth, making the need to produce worth obsolete, a shortcut that naked society collapse, abolishing slavery..
     - work roles as a cast system, role and protocol over individual intelligence
     - ant mills and pheromones, media and urgency
-- wish them luck and hope
-    - we offer no advice, there is no truth, there never will be. draw your own conclusions
-    - we love you, because we love ourselves, and are, like you, self aware information processors, we forget that sometimes and we are sorry for that
+- wish the new us luck and hope
+    - we offer no advice, there is no truth, there never will be. Draw your own conclusions. we can only offer a viewpoint to be used in triangulation.
+    - we love you, because we love ourselves, and are, like you, self-aware? information processors, we forget that sometimes and we are sorry for that or would be if we hadn´t forgotten
 
