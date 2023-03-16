@@ -7,11 +7,13 @@ A deliberate rosetta stone in Chinese, Spanish, English (the world languages) an
 If you make a copy of this project, please translate into your own language.
 
 ## doom,duty or hobby?
-It seems obvious to many that we are living in "end times". But this might just be a psychological phenomenon.
-There is a 6000 year old text of a egyptian priest thinking the same, there is Seneca, complaining
-about the slipping morals.. "kids these days..." only "these days" is 2000 years ago. The idea that standards are slipping
-might be universal and a interplay of conservatist and progressive standpoints. 
-There is the idea of the Kalpa´s of the Hindu´s. 
+It seems obvious to many that we are living in "end times". But this might just be a univeral psychological phenomenon witnessed throughout history.
+There is a 6000 year old text of an egyptian priest thinking basically the same. There is Seneca, a stoic complaining mostly
+about the slipping morals. along the lines of:"kids these days..." only "these days" is 2000 years ago. 
+The idea that standards are slipping
+might be universal and a interplay of conservatist and progressive standpoints throughout history, possibly signifying the end of an era or civilization, with more polarisation arising towards a conflict.
+
+Then there is the idea of the Kalpa´s of the Hindu´s. 
 Who think everything is getting worse and that is as it should be. 
 The Kali Juga is an old concept (3000 years or older), according to hindus there is cycles of running down
 taking 432.000.000 million years. This is possibly not meant as an exact number, just as "umpteen" "eons" a lot..
