@@ -5,6 +5,7 @@ sample of handwritten font for writing printing system (please don´t use longha
 ABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789 abcdefghijklmnopqrstuvwxyz
 
 punctuation explained .,!?;: 
+minimal sentence structure explained subject-verb
 
 writing direction explained ->
 
@@ -22,3 +23,5 @@ chinese
 characters explained
 stroke order explained
 radicals explained
+sentencestructure
+transscription?
