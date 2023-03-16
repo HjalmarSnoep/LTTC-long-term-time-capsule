@@ -79,6 +79,14 @@ want the information destroyed and will do so methodologically, we need some sto
  - secret locations (consider if your location should remain secret, i think three public stores on different continents is optimal for longevity)
 
 # goals
+short
+- write from a neutral standpoint to a future intelligence that rises after humans (worst case scenario:).
+- tell them who we were (from a antropologic standpoint)
+- what we learned, what we did right 
+- what we did wrong ( possible dooms, we saw, but kept doing, also we had a 4 million year run )
+- wish the new us luck and hope
+    
+long
 - write from a neutral standpoint to a future intelligence that rises after humans (worst case scenario:).
 - tell them who we were (from a antropologic standpoint)
    - political organisation.. societies, countries
@@ -108,7 +116,7 @@ want the information destroyed and will do so methodologically, we need some sto
     - work roles as a cast system, role and protocol over individual intelligence
     - ant mills and pheromones, media and urgency
 - wish the new us luck and hope
-    - we offer no advice, there is no truth, there never will be. Draw your own conclusions. we can only offer a viewpoint to be used in triangulation.
+    - we offer no advice, there is no truth, there never will be. Draw your own conclusions. We can only offer a viewpoint to be used in triangulation.
     - we love you, because we love ourselves, and are, like you, information processors, we forget that sometimes and we are sorry for that or would be if we hadn´t forgotten. We think love is important, but we express it mostly by clinging. Kinship might be a better word, compassion, posibly.
     - you are not alone.. This has been a basic question of civilization.. Are we the first to arrive?
 
