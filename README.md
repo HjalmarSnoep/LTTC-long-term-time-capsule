@@ -3,7 +3,8 @@ a copy of the contents
 
 # introduction
 I think it s time to start a long term time capsule.
-A deliberate rosetta stone in Chinese, Spanish, English and Dutch. ( I am Dutch, no other reason than that)
+A deliberate rosetta stone in Chinese, Spanish, English (the world languages) and Dutch. ( I am Dutch, and one more language helps )
+If you make a copy of this project,please translate into your own language.
 
 ## doom or duty?
 It seemeslogical that we are living in "end times". this might just be a psychological phenomenon.
