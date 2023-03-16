@@ -1,5 +1,5 @@
 # LTTC-long-term-time-capsule
-a copy of the contents
+a copy of the contents will be built up over time in the respective language folders.
 
 # introduction
 I think it´s time to start a long term time capsule.
