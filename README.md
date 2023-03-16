@@ -109,5 +109,5 @@ want the information destroyed and will do so methodologically, we need some sto
     - ant mills and pheromones, media and urgency
 - wish the new us luck and hope
     - we offer no advice, there is no truth, there never will be. Draw your own conclusions. we can only offer a viewpoint to be used in triangulation.
-    - we love you, because we love ourselves, and are, like you, self-aware? information processors, we forget that sometimes and we are sorry for that or would be if we hadn´t forgotten
+    - we love you, because we love ourselves, and are, like you, information processors, we forget that sometimes and we are sorry for that or would be if we hadn´t forgotten. We think love is important, but we express it mostly by clinging. Kinship might be a better word, compassion, posibly.
 
