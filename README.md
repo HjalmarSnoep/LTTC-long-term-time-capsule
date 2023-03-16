@@ -25,7 +25,7 @@ Ants have been doing it for millions of years ( longer than humans ) and have be
 As of yet there is no means of making information antifragile.
 Books may be reprinted, open source may be a bit anttifragile, but both of these rely on a society (12000 years), 
 which relies on human DNA expressing (4 million years). And are more to be seen as a weakest link in that chain.
-We have lost more information as a human race than is imaginable. we exit for about 4 million years
+We have lost more information as a human race than is imaginable. We exist for about 4 million years, have a civilization for about 12000 years
 and know only a little bit of the last 3000 years,
 
 We face real extinction level events or fear them and are progressing towards them seemingly without thinking
