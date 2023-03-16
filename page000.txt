@@ -5,14 +5,18 @@ There is no truth, just viewpoints. This is why we attempt to disclose our biase
 Life cycle of theories, facts and measurements
 - There are long standing scientific theaories + 50 years
 - there are shortstanding scientific facts and theories, based on improving meaurements  <50 years
-  (current average halflife of facts +/- 7 years, 50 years meand less than 1/100th is still true on average)
-- measurements , some, likethe speed of light in vacuum stand longer
+  (current average halflife of facts +/- 7 years, 50 years meand less than 1/100th is still considered true on average)
+- measurements are short lived, some like the speed of light in vacuum stand longer, but only increase in significance
 
 Significance
 There is a thing called significance, which indicates an estimated error-margin. like 100 +/- 50
 10 means +/- 5
 or 3.03 which is meant as 3.03 +/- 0.005, where 3.0003 means +/- 0.00005
 we can also say 3.3e5 meaning 3.3 times 10 to the power of 5, so 10000, meaning +/- 500
+3.00 is considered more significant/accurate than 3.0
+Significance is defined differently in statistics, although you could argue 
+the concept of significance is an attempt to treat all datapoints alike, even single ones, by means of estimation.
+It is the measure of the blurriness, vaguness of a datapoint. In my mind this unifies the two concepts into one.
 
 Relativity of fathering scientific data
 Scientific measurement is either
